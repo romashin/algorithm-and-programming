@@ -1,3 +1,6 @@
+"""
+Задание 19
+"""
 from math import sin
 x=int(input("введите x:\n"))
 y=int(input("введите y:\n"))
