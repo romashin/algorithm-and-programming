@@ -1,6 +1,6 @@
+from math import sin
 x=int(input("введите x:\n"))
 y=int(input("введите y:\n"))
-from math import sin
 if x > 5 and y > 4 and y < 5:
     ans = 6*x+2*y
 elif x > 0 and x <= 5 and y <= 4:
